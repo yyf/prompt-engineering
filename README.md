@@ -9,6 +9,10 @@ A repository for prompt engineering resources
 ## Prompt engineering overview 
 - [Anthropic](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview): Anthropic's prompt engineering overview 
 - [OpenAI](https://platform.openai.com/docs/guides/prompt-engineering/prompt-engineering): OpenAI's prompt engineering overview 
+- [Meta](https://www.llama.com/docs/how-to-guides/prompting/): Meta/LLAMA's prompting guides 
+- [Google](https://cloud.google.com/discover/what-is-prompt-engineering?hl=en): Google Cloud's prompt engineering overview and guide
+- [Amazon](https://aws.amazon.com/what-is/prompt-engineering/): Amazon/AWS's prompt engineering overview
+- [DAIR-AI](https://www.promptingguide.ai/): DAIR-AI's prompt engineering guide
 
 ## Prompt libraries 
 - [Anthropic](https://docs.anthropic.com/en/resources/prompt-library/library): Anthropic's prompt library
