@@ -31,3 +31,6 @@ A repository for prompt engineering resources
 
 ## System prompts
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
+
+## Meta prompting 
+- [PromptHub](https://www.prompthub.us/blog/a-complete-guide-to-meta-prompting): A Complete Guide to Meta Prompting
