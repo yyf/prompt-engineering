@@ -15,6 +15,7 @@ A repository for prompt engineering resources
 - [Google](https://cloud.google.com/discover/what-is-prompt-engineering?hl=en): Google Cloud's prompt engineering overview and guide
 - [Amazon](https://aws.amazon.com/what-is/prompt-engineering/): Amazon/AWS's prompt engineering overview
 - [DAIR-AI](https://www.promptingguide.ai/): DAIR-AI's prompt engineering guide
+- [Github](https://github.blog/developer-skills/github/how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/): Using GitHub Copilot in your IDE: Tips, tricks, and best practices
 
 ## Prompt libraries 
 - [Anthropic](https://docs.anthropic.com/en/resources/prompt-library/library): Anthropic's prompt library
