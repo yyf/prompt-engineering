@@ -35,3 +35,6 @@ A repository for prompt engineering resources
 
 ## Meta prompting 
 - [PromptHub](https://www.prompthub.us/blog/a-complete-guide-to-meta-prompting): A Complete Guide to Meta Prompting
+
+## Prompt builder
+- [Anthropic](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/prompt-generator): Automatically generate first draft prompt templates
