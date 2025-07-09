@@ -17,24 +17,25 @@ A repository for prompt engineering resources
 - [DAIR-AI](https://www.promptingguide.ai/): DAIR-AI's prompt engineering guide
 - [Github](https://github.blog/developer-skills/github/how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/): Using GitHub Copilot in your IDE: Tips, tricks, and best practices
 
-## Prompt libraries 
-- [Anthropic](https://docs.anthropic.com/en/resources/prompt-library/library): Anthropic's prompt library
-- [OpenAI](https://platform.openai.com/docs/examples): OpenAI's prompt examples
-- [Langchain/Hub](https://smith.langchain.com/hub): LangChain Templates
+## Prompting techniques
+- [PromptHub](https://www.prompthub.us/blog/a-complete-guide-to-meta-prompting): A Complete Guide to Meta Prompting
+- [PromptHub](https://www.prompthub.us/blog/chain-of-thought-prompting-guide): Chain of Thought Prompting Guide
 
-## Evaluations 
+## Model evaluation
 - [OpenAI](https://platform.openai.com/docs/guides/evals): OpenAI's doc on evaluating model performance 
 - [Anthropic](https://docs.anthropic.com/en/docs/test-and-evaluate/develop-tests): Antoropic's doc on evaluating model performance 
 - [Ragas](https://github.com/explodinggradients/ragas): Supercharge Your LLM Application Evaluations 🚀 https://docs.ragas.io/en/stable/
 
-## Prompt engineering playgrounds
-- [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL): Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
+## Prompt examples, templates, and libraries 
+- [Anthropic](https://docs.anthropic.com/en/resources/prompt-library/library): Anthropic's prompt library
+- [OpenAI](https://platform.openai.com/docs/examples): OpenAI's prompt examples
+- [Langchain/Hub](https://smith.langchain.com/hub): LangChain Templates
 
 ## System prompts
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
 
-## Meta prompting 
-- [PromptHub](https://www.prompthub.us/blog/a-complete-guide-to-meta-prompting): A Complete Guide to Meta Prompting
-
 ## Prompt builder
 - [Anthropic](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/prompt-generator): Automatically generate first draft prompt templates
+
+## Prompt engineering playgrounds
+- [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL): Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
