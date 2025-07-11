@@ -40,3 +40,6 @@ A repository for prompt engineering resources
 
 ## Prompt engineering playgrounds
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL): Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
+
+## Prompt engineering for coding agents: 
+- [VisualStudio](https://code.visualstudio.com/docs/copilot/chat/prompt-crafting#:~:text=You%20could%20write%20out%20your,symbols%20from%20your%20source%20code.): Prompt engineering for Copilot Chat
