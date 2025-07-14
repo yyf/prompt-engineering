@@ -43,3 +43,4 @@ A repository for prompt engineering resources
 
 ## Prompt engineering for coding agents: 
 - [VisualStudio](https://code.visualstudio.com/docs/copilot/chat/prompt-crafting#:~:text=You%20could%20write%20out%20your,symbols%20from%20your%20source%20code.): Prompt engineering for Copilot Chat
+- [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro): Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work; context engineering vs prompt engineering
